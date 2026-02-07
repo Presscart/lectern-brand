@@ -1,0 +1,13 @@
+<svg viewBox="22 30 48 35" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Uncontained mark (bars only) for light backgrounds -->
+  <!-- Gradient: 20% to 100% opacity, left to right -->
+  <defs>
+    <linearGradient id="ink-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1a1612" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#1a1612" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <path d="M26,32.75 Q24,32.75 24,34.25 L24,35.25 Q24,37 26,37 L66,37 Q68,37 68,35 L68,32 Q68,30 66,30 L26,32.75 Z" fill="url(#ink-gradient)"/>
+  <rect x="24" y="44" width="32" height="7" rx="2" fill="url(#ink-gradient)"/>
+  <rect x="24" y="58" width="44" height="7" rx="2" fill="url(#ink-gradient)"/>
+</svg>

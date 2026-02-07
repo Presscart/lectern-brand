@@ -1,0 +1,19 @@
+<svg viewBox="0 0 260 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Contained icon sized so container matches cap height, tight spacing -->
+  <!-- 48px cap height equivalent, icon = 57px to make container match -->
+  <!-- Gradient: 20% to 100% opacity, left to right -->
+  <defs>
+    <linearGradient id="ink-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1a1612" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#1a1612" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <svg x="0" y="-4.5" width="57" height="57" viewBox="0 0 100 100">
+    <rect x="8" y="8" width="84" height="84" rx="18" fill="#f9f6ec"/>
+    <path d="M26,32.75 Q24,32.75 24,34.25 L24,35.25 Q24,37 26,37 L66,37 Q68,37 68,35 L68,32 Q68,30 66,30 L26,32.75 Z" fill="url(#ink-gradient)"/>
+    <rect x="24" y="44" width="32" height="7" rx="2" fill="url(#ink-gradient)"/>
+    <rect x="24" y="58" width="44" height="7" rx="2" fill="url(#ink-gradient)"/>
+  </svg>
+  <!-- Wordmark with 6px gap -->
+  <text x="63" y="38" font-family="Fraunces, Georgia, serif" font-size="48" font-weight="500" fill="#f9f6ec">Lectern</text>
+</svg>

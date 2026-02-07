@@ -1,0 +1,16 @@
+<svg viewBox="0 0 240 49" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Lectern Uncontained Logo Lockup: Brass icon + White wordmark -->
+  <!-- BRAND RULE: Icon height matches cap height of "L" in wordmark -->
+  <defs>
+    <linearGradient id="brass-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c9a961" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#c9a961" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <svg x="0" y="5" width="46" height="36" viewBox="22 30 48 35">
+    <path d="M26,32.75 Q24,32.75 24,34.25 L24,35.25 Q24,37 26,37 L66,37 Q68,37 68,35 L68,32 Q68,30 66,30 L26,32.75 Z" fill="url(#brass-gradient)"/>
+    <rect x="24" y="44" width="32" height="7" rx="2" fill="url(#brass-gradient)"/>
+    <rect x="24" y="58" width="44" height="7" rx="2" fill="url(#brass-gradient)"/>
+  </svg>
+  <text x="56" y="39.75" font-family="Fraunces, Georgia, serif" font-size="48" font-weight="500" fill="white">Lectern</text>
+</svg>

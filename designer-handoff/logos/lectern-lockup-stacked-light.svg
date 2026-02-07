@@ -1,0 +1,19 @@
+<svg viewBox="0 0 120 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Stacked lockup for dark backgrounds -->
+  <!-- Gradient: 20% to 100% opacity, left to right -->
+  <defs>
+    <linearGradient id="ink-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1a1612" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#1a1612" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <!-- Icon -->
+  <g transform="translate(28, 10)">
+    <rect x="8" y="8" width="48" height="48" rx="10" fill="#f9f6ec"/>
+    <path d="M17.6,19.2 Q16,19.2 16,20.4 L16,21 Q16,22.2 17.6,22.2 L40.4,22.2 Q42,22.2 42,21 L42,19.2 Q42,18 40.4,18 L17.6,19.2 Z" fill="url(#ink-gradient)"/>
+    <rect x="16" y="26.4" width="15.4" height="3.4" rx="1" fill="url(#ink-gradient)"/>
+    <rect x="16" y="33.2" width="21.1" height="3.4" rx="1" fill="url(#ink-gradient)"/>
+  </g>
+  <!-- Wordmark -->
+  <text x="60" y="100" font-family="Fraunces, Georgia, serif" font-size="24" font-weight="500" fill="#f9f6ec" text-anchor="middle">Lectern</text>
+</svg>

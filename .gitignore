@@ -1,0 +1,14 @@
+# OS files
+.DS_Store
+*.DS_Store
+
+# Node modules (from website subfolder)
+node_modules/
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Temp files
+*.tmp
