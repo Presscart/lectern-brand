@@ -14,7 +14,7 @@ Use this document as the single source of truth for all Lectern marketing, sales
 4. [The Lectern Workflow](#section-4-the-lectern-workflow)
 5. [Target Audience](#section-5-target-audience)
 6. [Competitive Positioning](#section-6-competitive-positioning)
-7. [Pricing & Tiers](#section-7-pricing--tiers) *(Placeholder)*
+7. [Pricing & Tiers](#section-7-pricing--tiers)
 8. [Tone, Language & Messaging](#section-8-tone-language--messaging)
 9. [Company Details](#section-9-company-details)
 
@@ -580,52 +580,54 @@ They give you recommendations and tell you what to do. The agent does the work a
 
 ### Philosophy
 
-Three simple subscription plans. No usage fees. No compute costs. No surprise bills.
+Simple, per-site pricing. No usage fees. No compute costs. No surprises.
 
 You pick a tier based on what you need:
 - How many AI models you want to measure against
 - How many priority queries you want to track
 - How much content you need created
-- How many offsite pieces you want published
+- How many offsite articles you want published
 - What level of support you need from our team
 
 The agent does the work at every tier. The difference is scope, volume, and support.
 
-### Pricing is Per Site
-
-Each subscription covers one site. If you want to add additional sites, you pay for each one separately. You can choose the same tier for each site, or mix and match based on what each site needs.
-
-**Why this matters:**
-
-For agencies and larger businesses, this is what makes the model scale. The more clients you want to benefit from Lectern, or the more subsidiary sites a company wants to cover, the more subscriptions you add. Growth is organic and directly tied to the value you're extracting.
-
-For smaller teams, this ensures commitment. You can't game the system by applying a single subscription across a bunch of clients or side projects. If you're an agency, you're applying at least some of that client retainer to the subscription that helps you deliver results. This incentivizes people who are serious about a single business to sign up, rather than spreading thin across smaller projects that won't see real impact.
+---
 
 ### The Three Tiers
 
 | | **Starter** | **Pro** | **Scale** |
 |---|-------------|---------|-----------|
-| **Price** | $199/month | $999/month | $2,999/month |
-| **AI Models** | 2 (ChatGPT, Gemini) | 4 (+Perplexity, Grok) | All 9 AI models |
-| **Priority Queries** | Up to 50 | Up to 250 | Up to 500 |
-| **AI Answers Analyzed** | 3,000/month | 30,000/month | 135,000+/month |
-| **Content Creation** | 2 pieces/week | 4 pieces/week | Daily |
-| **Offsite Mentions** | — | Guaranteed 1/month | 4+/month |
-| **Visibility Reports** | Daily | Daily | Daily |
+| **Price** | $200/month | $1,000/month | $3,000/month |
+| **AI Models** | 1 (ChatGPT) | 3 (ChatGPT, Gemini, Perplexity) | 6 (ChatGPT, Gemini, Perplexity, Meta AI, Claude, Grok) |
+| **Priority Queries** | 50 | 250 | 500 |
+| **AI Answers Analyzed** | 3,000/month | 15,000/month | 40,000/month |
+| **Onsite Content** | 8 articles/month | 16 articles/month | Daily |
+| **Offsite Publishing** | Onsite only | 1 article/month | 4 articles/month |
+| **Reporting** | Daily | Daily | Daily |
 | **Seats** | Unlimited | Unlimited | Unlimited |
 | **Support** | Email | Priority email | Priority email + Slack |
 
+**Onsite Content:** Blog content designed to surface in AI answers
+
+**Offsite Publishing:** Content placed on publications cited by AI models
+
 ---
 
-### Starter ($199/month)
+### Pricing Note
+
+Each subscription covers one site. Running multiple brands or client sites? Add additional sites at the same tier rate.
+
+---
+
+### Starter ($200/month)
 
 **Best for:** Early-stage brands, small teams getting started with AEO, founders who want to test before scaling.
 
 **What you get:**
-- 2 AI models tracked (ChatGPT, Gemini)
-- Up to 50 priority queries
+- 1 AI model tracked (ChatGPT)
+- 50 priority queries
 - 3,000 AI answers analyzed per month
-- 2 content pieces per week
+- 8 articles per month
 - Daily visibility reports
 - Unlimited seats
 - Email support
@@ -634,34 +636,34 @@ For smaller teams, this ensures commitment. You can't game the system by applyin
 
 ---
 
-### Pro ($999/month) — Most Popular
+### Pro ($1,000/month) — Most Popular
 
 **Best for:** Growth-stage brands scaling their AI visibility, performance marketing teams who need broader coverage, companies with multiple product lines or query categories.
 
 **What you get:**
-- 4 AI models tracked (+Perplexity, Grok)
-- Up to 250 priority queries
-- 30,000 AI answers analyzed per month
-- 4 content pieces per week
-- Guaranteed offsite mention every month
+- 3 AI models tracked (ChatGPT, Gemini, Perplexity)
+- 250 priority queries
+- 15,000 AI answers analyzed per month
+- 16 articles per month
+- 1 offsite article per month
 - Daily visibility reports
 - Unlimited seats
 - Priority email support
 
-**The value:** This is where most growth-stage brands land. Broader model coverage, significantly more query tracking, and guaranteed offsite placements through our publisher network. The jump from Starter to Pro unlocks the full power of offsite execution.
+**The value:** This is where most growth-stage brands land. Broader model coverage, significantly more query tracking, and offsite placements through our publisher network. The jump from Starter to Pro unlocks the full power of offsite execution.
 
 ---
 
-### Scale ($2,999/month)
+### Scale ($3,000/month)
 
 **Best for:** Agencies managing AEO for clients, larger teams with dedicated growth/performance functions, companies needing maximum coverage and dedicated support.
 
 **What you get:**
-- All 9 AI models tracked
-- Up to 500 priority queries
-- 135,000+ AI answers analyzed per month
+- 6 AI models tracked (ChatGPT, Gemini, Perplexity, Meta AI, Claude, Grok)
+- 500 priority queries
+- 40,000 AI answers analyzed per month
 - Daily content creation
-- 4+ offsite mentions per month
+- 4 offsite articles per month
 - Daily visibility reports
 - Unlimited seats
 - Priority email + Slack support
@@ -690,10 +692,20 @@ The agent works for you at every tier. You're not paying for features that unloc
 Important: We don't gate core execution behind higher tiers.
 
 - Starter gets the agent working on their behalf
-- Starter gets content created weekly
+- Starter gets content created monthly
 - Starter gets progress updates in their inbox
 
 The difference is volume (queries, content, AI answers) and scope (models, offsite placements, support level), not whether the agent actually does the work.
+
+---
+
+### FAQ
+
+**What does one subscription cover?**
+Each subscription covers one site. If you manage multiple sites or brands, each one needs its own subscription at your chosen tier.
+
+**Can I have different tiers for different sites?**
+Yes. Each site is independent—you can run one site on Scale and another on Starter. Mix and match based on each site's needs.
 
 ---
 
@@ -707,7 +719,7 @@ When evaluating Lectern's price, consider what you're replacing:
 | **Niche AEO hire** | $80,000–$120,000/year + benefits | One person, limited bandwidth, ramp-up time |
 | **Doing it yourself** | Your time | Opportunity cost of not working on higher-level problems |
 
-Lectern at $199–$2,999/month gives you an agent that works around the clock, executes onsite and offsite, and reports progress to your inbox. No contracts. No hiring. No doing it yourself.
+Lectern at $200–$3,000/month gives you an agent that works around the clock, executes onsite and offsite, and reports progress to your inbox. No contracts. No hiring. No doing it yourself.
 
 **The math:**
 - Save on headcount
